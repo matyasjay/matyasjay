@@ -13,6 +13,8 @@ Matyas, Matyi or whatever you like to call me, I prefer this two tho. I was born
 
 _Discalaimer: do not attempt to have that many kitties, they are straight from the hell I tell you for sure._
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@matyasjay/2a19c031-fe3e-490a-a9e9-9a8fd57d8d98.png" /></a>
+
 #### What I do?
 
 I'm working as a full stack engineer _(oh, how I hate this phrase)_ at the most awesome company [One Beyond](https://github.com/onebeyond) for several years now and planning to do so for even more.
