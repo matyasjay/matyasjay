@@ -1,17 +1,3 @@
-### `$ sudo su`
-
-```
-$ You do not have sufficient permission to perform this action! Welcome anyway...
-```
-
-### `$ uptime`
-
-Welding bits since 2015. This account came to life when I joined One Beyond. History erased, no regrets.
-
-### `$ cwd`
-
-A handsome and cherish hungarian software engineer loving his life, wife, two children and sometimes his six (yeah, 6) cats.
-
 ### `$ whoami`
 
 <p align="center">
